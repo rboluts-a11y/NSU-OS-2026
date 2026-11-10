@@ -1,0 +1,18 @@
+
+
+First and second lines are empty.
+ 
+Previous line is NOT empty because backspace
+This is next line
+
+   
+
+   7-th and 9-th lines are empty
+8-th line is NOT empty because 3 backspaces
+
+
+Last 16-th and 17-th are empty, 18-th is NOT empty because backspace  
+Empty lines numbers: 1,2,7,9,12,13,16,17 - TOTAL 8 empty lines  
+
+
+  
